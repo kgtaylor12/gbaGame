@@ -1,0 +1,6 @@
+Game Idea:
+Game with Slider where if the ball hits the slider it will lose a life
+if the slider can reach a smaller y value (closer to top) and keep the ball going more points (factor= y/(height - 1))
+Keep track of points and if reaches certain threshold you advance to next level
+if lives = 0, game over
+if get to certain number of points in level three, you win!!
